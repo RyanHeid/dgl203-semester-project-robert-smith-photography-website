@@ -4,10 +4,18 @@
   background-image: url(Images/RobertSmithBG@3x.png);
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  font-family: 'Lato', sans-serif;
   
  }
 
  body img {
   width: 100%;
   height: 100%;
+ }
+
+ /* pets page styles */
+ .carousel-inner .pets .pet2 {
+  width: 200px;
+  display: block;
+  object-fit: cover;
  }
