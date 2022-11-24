@@ -3,6 +3,10 @@
   @import './contact';
   @import './shop';
   @import './galleries';
+  @import './about';
+  @import './people';
+  @import './pets';
+  @import './weddings';
 
   @function weight($weight-name) {
     @return map-get($font-weights, $weight-name);
