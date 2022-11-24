@@ -1,4 +1,4 @@
-.reviews {
+.reviews-body {
   background-color: #dfe6e0;
 }
 
@@ -11,6 +11,22 @@
 }
 
 .galleries-body {
+  background-color: #dfe6e0;
+}
+
+.about-body {
+  background-color: #dfe6e0;
+}
+
+.people-body {
+  background-color: #dfe6e0;
+}
+
+.pets-body {
+  background-color: #dfe6e0;
+}
+
+.weddings-body {
   background-color: #dfe6e0;
 }
 
