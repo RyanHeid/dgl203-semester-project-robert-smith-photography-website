@@ -1,4 +1,5 @@
-  @import './variables';
+  @import './config';
+  @import './reviews';
 
   @function weight($weight-name) {
     @return map-get($font-weights, $weight-name);
@@ -6,7 +7,7 @@
 
 
 
- body {
+  body {
   background-color: $primary-color;
   height: 100vh;
   /* background-image: url("/Images/RobertSmithBG@3x.png"); */
