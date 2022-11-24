@@ -2,6 +2,7 @@
   @import './reviews';
   @import './contact';
   @import './shop';
+  @import './galleries';
 
   @function weight($weight-name) {
     @return map-get($font-weights, $weight-name);
