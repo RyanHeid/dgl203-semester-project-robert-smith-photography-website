@@ -1,25 +1,11 @@
  .shop-body {
   background-color: $secondary-color;
   font-family: $font-stack;
+  margin-top: 20px;
  }
 
  /* card styles */
- .card {
-  width:95%;
-  padding:0px;
-  margin-left: 2%;
-  }
-  
-  .card-footer {
-  background-color: #ff772e;
-  font-weight: 700;
-  }
-  
-  .price {
-  color:#ff4517;
-  font-weight: 600;
-  }
-
+ 
  /* shop form style */
  .shop-body {
   font-family: Arial;

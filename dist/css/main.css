@@ -1,148 +1,83 @@
-.reviews-body {
-  background-color: #dfe6e0;
-  font-family: "Lato", sans-serif;
+/* $LightBlue: #7DD6FF; */
+.about-section {
+  background-color: #7DD6FF;
+  font-size: 18px;
+  color: black;
 }
 
-.contact-body {
-  background-color: #dfe6e0;
-  font-family: "Lato", sans-serif;
-}
-
-.shop-body {
-  background-color: #dfe6e0;
-  font-family: "Lato", sans-serif;
-}
-
-/* card styles */
-.card {
-  width: 95%;
-  padding: 0px;
-  margin-left: 2%;
-}
-
-.card-footer {
-  background-color: #ff772e;
-  font-weight: 700;
-}
-
-.price {
-  color: #ff4517;
+.about-section .title {
+  color: black;
   font-weight: 600;
+  font-size: 3rem;
 }
 
-/* shop form style */
-.shop-body {
-  font-family: Arial;
-  font-size: 17px;
-  padding: 8px;
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("C:/Users/ryanj/Desktop/assignment1-RyanHeid/Advanced CSS DGL 203/dgl203-semester-project/dgl203-semester-project-robert-smith-photography-website/assignment4c-RyanHeid/images/134216_menu_lines_hamburger_icon.svg");
 }
 
-* {
-  box-sizing: border-box;
+.index {
+  margin: 0;
+  font-family: sans-serif;
+  overflow: hidden;
 }
 
-.row { /* IE10 */
-  display: flex; /* IE10 */
-  flex-wrap: wrap;
-  margin: 0 -16px;
-}
-
-.col-25 { /* IE10 */
-  flex: 25%;
-}
-
-.col-50 { /* IE10 */
-  flex: 50%;
-}
-
-.col-75 { /* IE10 */
-  flex: 75%;
-}
-
-.col-25,
-.col-50,
-.col-75 {
-  padding: 0 16px;
-}
-
-.shop-container {
-  background-color: #f2f2f2;
-  padding: 5px 20px 15px 20px;
-  border: 1px solid lightgrey;
-  border-radius: 3px;
-}
-
-input[type=text] {
-  width: 100%;
-  margin-bottom: 20px;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-}
-
-label {
-  margin-bottom: 10px;
-  display: block;
-}
-
-.icon-container {
-  margin-bottom: 20px;
-  padding: 7px 0;
-  font-size: 24px;
-}
-
-.btn {
-  background-color: #04AA6D;
+.hero {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
   color: white;
-  padding: 12px;
-  margin: 10px 0;
-  border: none;
-  width: 100%;
-  border-radius: 3px;
-  cursor: pointer;
-  font-size: 17px;
+  /* added gradient to background image to darken it down slightly */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("C:/Users/ryanj/Desktop/assignment1-RyanHeid/Advanced CSS DGL 203/dgl203-semester-project/dgl203-semester-project-robert-smith-photography-website/assignment4c-RyanHeid/images/canal2.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
-.btn:hover {
-  background-color: #45a049;
+.hero h1 {
+  font-size: 3em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
-a {
-  color: #2196F3;
+.hero a {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  color: white;
 }
 
-hr {
-  border: 1px solid lightgrey;
+.navbar-nav .active {
+  color: aliceblue;
 }
 
-span.price {
-  float: right;
-  color: grey;
+.nav-item > a:hover {
+  color: aliceblue;
 }
 
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
-@media (max-width: 800px) {
-  .row {
-    flex-direction: column-reverse;
-  }
-  .col-25 {
-    margin-bottom: 20px;
-  }
-}
-/* end of shop css */
-.galleries-body {
-  background-color: #dfe6e0;
-  font-family: "Lato", sans-serif;
+/* Set the border color to the desired color */
+.custom-toggler.navbar-toggler {
+  border-color: #26a3d9;
 }
 
-.about-body {
-  background-color: #dfe6e0;
-  font-family: "Lato", sans-serif;
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("C:/Users/ryanj/Desktop/assignment1-RyanHeid/Advanced CSS DGL 203/dgl203-semester-project/dgl203-semester-project-robert-smith-photography-website/assignment4c-RyanHeid/images/134216_menu_lines_hamburger_icon.svg");
 }
 
-.people-body {
-  background-color: #dfe6e0;
-  font-family: "Lato", sans-serif;
+.nav-link {
+  color: #26a3d9;
+}
+
+.navbar-brand {
+  color: #26a3d9;
+}
+
+/* index page style *//*# sourceMappingURL=main.css.map */o", sans-serif;
 }
 
 .pets-body {
@@ -213,6 +148,22 @@ span.price {
   background-color: #dfe6e0;
   padding: 10px;
   margin: 20px;
+}
+
+.card {
+  width: 95%;
+  padding: 0px;
+  margin-left: 2%;
+}
+
+.card-footer {
+  background-color: #ff772e;
+  font-weight: 700;
+}
+
+.price {
+  color: #ff4517;
+  font-weight: 600;
 }
 
 /* end of copy from original style.css *//*# sourceMappingURL=main.css.map */
