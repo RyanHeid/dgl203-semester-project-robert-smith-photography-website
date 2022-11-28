@@ -52,27 +52,27 @@
  box-sizing: border-box;
 }
 
-.row { /* IE10 */
+.shop-body .row { /* IE10 */
  display: flex; /* IE10 */
  flex-wrap: wrap;
  margin: 0 -16px;
 }
 
-.col-25 { /* IE10 */
+.shop-body .col-25 { /* IE10 */
  flex: 25%;
 }
 
-.col-50 { /* IE10 */
+.shop-body .col-50 { /* IE10 */
  flex: 50%;
 }
 
-.col-75 { /* IE10 */
+.shop-body .col-75 { /* IE10 */
  flex: 75%;
 }
 
-.col-25,
-.col-50,
-.col-75 {
+.shop-body .col-25,
+.shop-body .col-50,
+.shop-body .col-75 {
  padding: 0 16px;
 }
 
@@ -133,10 +133,10 @@ span.price {
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
 @media (max-width: 800px) {
- .row {
+  .shop-body .row {
    flex-direction: column-reverse;
  }
- .col-25 {
+ .shop-body .col-25 {
    margin-bottom: 20px;
  }
 }
