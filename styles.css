@@ -1,17 +1,10 @@
-.reviews-body {
+.reviews-body, .contact-body, .shop-body, .galleries-body, .about-body, .people-body, .pets-body, .weddings-body {
  background-color: #dfe6e0;
  font-family: "Lato", sans-serif;
 }
 
-.contact-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
 
-.shop-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
+/* card styles */
 
 .card-img-top {
  width: 90%;
@@ -40,12 +33,11 @@
  font-weight: 600;
 }
 
-/* card styles */
+
 /* shop form style */
 .shop-body {
  font-family: Arial;
  font-size: 17px;
-
 }
 
 * {
@@ -140,31 +132,10 @@ span.price {
    margin-bottom: 20px;
  }
 }
+
+/* Responsive layout - when the screen is less than 1000 px wide, make the checkout form paragraph
 /* end of shop css */
-.galleries-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
 
-.about-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
-
-.people-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
-
-.pets-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
-
-.weddings-body {
- background-color: #dfe6e0;
- font-family: "Lato", sans-serif;
-}
 
 .home {
  background-image: url("C:/Users/ryanj/Desktop/assignment1-RyanHeid/Advanced CSS DGL 203/dgl203-semester-project/dgl203-semester-project-robert-smith-photography-website/Images/RobertSmithBG@3x.png");
