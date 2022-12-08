@@ -1,0 +1,97 @@
+Github link: 
+https://github.com/RyanHeid/dgl203-semester-project-robert-smith-photography-website
+
+
+INSTRUCTIONS: Fill out the following form and upload the form to your GITHub repository. 
+Choose only one of the corresponding numbers in your answer for sections A-F.  
+Answer the questions in section G in sentence form.
+
+A. Code Quality 
+0 - Nothing - No submission
+1 - Below Expectations - Code renders but the code is unreadable 
+2 - Meets Expectations - Good formatting and uses naming conventions but can be improved
+3 - Exceeds Expectations - Code is exceptionally clean and best practices are used
+Your Answer: 3
+
+
+B. Content 
+0 - Nothing - No submission
+1 - Below Expectations - Content not related to assignment or project
+2 - Meets Expectations - Content is related to assignment or project and gets the point across
+3 - Exceeds Expectations - Content is exceptionally detailed and well put together
+Your Answer: 3
+
+
+C. Layout / Organization 
+0 - Nothing - No Submission
+1 - Below Expectations - Long codes with no divisions or random code layout
+2 - Meets Expectations - Code that is modular and divided into section declarations; subprograms
+3 - Exceeds Expectations - Code is exceptionally well organized. 
+Your Answer: 2
+
+
+D. Comments/Commits 
+0 - Nothing - No Submission
+1 - Below Expectations - Excessive, unnecessary, and irrelevant remarks
+2 - Meets Expectations - Comments identify authorship and code's intention
+3 - Exceeds Expectations - Comments and documentation are clear succinct; wizardry points are explained
+Your Answer: 3
+
+
+E. Rendering 
+0 - Nothing - Page does not load or render
+1 - Below Expectations - Page renders, but has errors and/or has apparent design issues
+2 - Meets Expectations - Page renders and produces no errors
+3 - Exceeds Expectations - Page renders and displays properly for multiple screen sizes and browsers 
+Your Answer: 3
+
+F. Process
+0 - Nothing - Project not attempted
+1 - Below Expectations - code and documents not added to repository at correct times
+2 - Meets Expectations - code published as website, milestones met
+3 - Exceeds Expectations - all milestones accomplished, submissions organized, instructions carefully followed, steps thoroughly documented
+Your Answer: 3
+
+
+G. Self Evaluation Questions:
+
+1. How much time did you spend on this assignment/project?
+I spent about 6 hours making sure my project was complete. 
+
+2. How difficult did you feel this project was? Easy, moderate, difficult?
+As a whole, I felt this project was moderate difficulty. I used what I learned throughout the year if I started to have any issues. Anything
+beyond that, I was able to find on the internet. 
+
+3. What challenges did you come across while working on this project?
+Probably the most difficulties came with my Footer. I had to add media queries to resolve the issues. 
+
+4. What things would you like to learn more about after having worked on this assignment?
+I actually would love to take this course again. I think I have a better understanding for html/css/github now after taking the course, and I would
+have more time to work on anything that I had trouble with during the semester. Mainly being Sass. I am going to find some Sass tutorials over the
+Christmas break to learn more about it. 
+
+Milestone 4 Changes
+
+I added a footer to the bottom of all pages except the index page. I didn't think that the index page would need a footer, but maybe I am wrong with 
+that assumption. I moved the contact information on the contact page to be above the wedding photo. I thought that a user arriving on the contact page
+might not realize that the contact information is below the wedding image. Because the contact information is one of the most important features on the 
+page, it needed to be above the wedding image. I removed the horizontal scroll from the entire page, I moved the contact form from the bottom left of the
+contact page to the bottom center of the contact page which improves the flow and look of the page, and I aligned the moved the paragraph on the About page
+to be more in line with the rest of the page, instead of being off to the left of the page. The issue that has not been completed is that I wanted to rename
+the bookings.html page to studio.html so there would not be any confusion about what the page was, or where it's code was. 
+
+This semester, I think I learned a lot. I used to be afraid to use Github, and now I have no problem using it. (Remember I was in Vancouver and said I couldn't 
+use my laptop for my assignment) After getting more familiar with Github during this semester, I was able to work on my class project at work on my laptop, push
+those changes to github, and then use git to pull those changes back onto my desk top, where I do the majority of the work. I will now be using Github for any of 
+my future website building because of this feature. Then there is the branch part. I also used to be afraid to branch my main branch because I thought I may currupt
+something. After taking this class, I no longer have issues making branches and merging them. Even though I stumbled a bit with Sass, I was happy that I was able to
+use it and have no issues while doing so with Assignment 4C. 
+I do think that the workload was a little much. Especially basically building 2 websites at the same time. In the first 5-6 weeks of the course I was spending at least
+20 hours a week working on material in this class. Would it be less now, after completing the class and having more knowledge? Probably.
+I think we could have spent more time working with Grid. Grid is another stumbling point that I had during this semester. 
+I do think that I can tackle a project of my own now. This is the part that excited me, because buidling websites is the reason why I enrolled in this program. 
+I am going to re-build the website for my podcast during the christmas break, and I am also meeting with a friend tomorrow to discuss building a website for his business. I
+obviously have more to learn, but I think this class has given me a good foundation to build on.   
+
+  
+
